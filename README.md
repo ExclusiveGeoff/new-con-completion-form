@@ -1,2 +1,2 @@
 # completion-form
-New construction completion form
+completion form
